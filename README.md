@@ -1,5 +1,5 @@
-
 **Date of creation:** 05/2024
+
 In this module we setup a tag management (Google Tag Management)  for a demo website The Chocolate Shop hosted on Netlify.
 
 ## Import a website from Github into Netlify
